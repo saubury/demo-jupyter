@@ -9,6 +9,7 @@
 mkdir git
 cd git
 git clone https://github.com/saubury/demo-jupyter
+cd demo-jupyter
 ```
 
 ## Setup
